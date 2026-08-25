@@ -798,6 +798,10 @@ a {
     margin: 0 auto 30px;
 }
 
+.cta-box div img {
+    margin-bottom: 20px;
+}
+
 
 /* ========================== FOOTER =========================== */
 .footer {
