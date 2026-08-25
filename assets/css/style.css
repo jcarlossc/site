@@ -20,6 +20,11 @@
     box-sizing: border-box;
 }
 
+html,
+body {
+    overflow-x: hidden;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -946,3 +951,4 @@ a {
         0 10px 30px
         rgba(0, 0, 0, .2);
 }
+
