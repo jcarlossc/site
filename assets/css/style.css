@@ -474,6 +474,7 @@ a {
     margin-right: 8px;
 }
 /* =========================== PROJECTS ========================== */
+
 .projects-section {
     background: var(--dark);
     padding: 120px 0;
@@ -605,6 +606,10 @@ a {
 .project-content a {
     color: var(--cyan);
     font-size: .82rem;
+}
+
+.projects-link:hover {
+    color: white;
 }
 /* ========================== STACK =========================== */
 .stack-section {
